@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addon id="skin.auramod" version="1.1.2" name="Aura[COLOR cyan]MOD[/COLOR]" provider-name="skyfsza,inb4after,SerpentDrago">
+<addon id="skin.auramod" version="1.1.9" name="Aura[COLOR cyan]MOD[/COLOR]" provider-name="skyfsza,inb4after,SerpentDrago">
     <requires>
         <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="script.skin.helper.service" version="1.1.24"/>
@@ -32,6 +32,29 @@
             <screenshot>resources/screenshot-05.jpg</screenshot>
         </assets>
         <news>
+            v1.1.9
+            -Fix Aura Home horizontal menu layout
+            -Fix conditional spacers when horizontal menu enabled
+            -Add conditional spacer when category widget disabled
+            v1.1.8
+            -Fix weather widget visibility
+            -Fix skin settings labels
+            -Fix skin settings comment blocks
+            v1.1.7
+            -Fix empty enabled widgets visibility
+            -Fix default widget paths
+            v1.1.6
+            -Fix Aura Home autoscroll to hub
+            v1.1.5
+            -Fix Aura Home category widget spacing
+            -Remove widget gap when category widget is disabled
+            -Fix spotlight navigation down when category widget is disabled
+            -Remove invisible category widget for workaround of grouplist usecontrolcoords
+            v1.1.4
+            -Fix studio logo visibility while trailer is playing
+            v1.1.3
+            -Fix episode thumbnail spoilers
+            -Fix Kaito search path
             v1.1.2
             -Fix Aura Home spacing when weather header is enabled
             v1.1.1
