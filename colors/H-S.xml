@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <!-- Main -->
+    <color name="main_bg_100">ff070707</color>
+    <color name="main_bg_70">b3070707</color>
+    <color name="main_bg_30">4d070707</color>
+    <color name="main_bg_12">1f070707</color>
+
+    <color name="main_fg_100">fffafafa</color>
+    <color name="main_fg_70">b3fafafa</color>
+    <color name="main_fg_Eps">FFffc0cb</color>
+    <color name="main_fg_30">4dfafafa</color>
+    <color name="main_fg_12">1ffafafa</color>
+    <color name="darkline_separator">9f000000</color>
+    <color name="highlight_bottombar">1f800080</color>
+    <!-- Dialogs -->
+    <color name="dialog_bg_100">FF070707</color>
+    <color name="dialog_bg_70">B3070707</color>
+    <color name="dialog_bg_30">4D070707</color>
+    <color name="dialog_bg_12">1F070707</color>
+
+    <color name="dialog_fg_100">FFfafafa</color>
+    <color name="dialog_fg_70">B3fafafa</color>
+    <color name="dialog_fg_30">4Dfafafa</color>
+    <color name="dialog_fg_12">1Ffafafa</color>
+
+    <!-- Panels -->
+    <color name="panel_bg">c5000000</color>
+    <color name="panel_fg_100">FFfafafa</color>
+    <color name="panel_fg_70">B3fafafa</color>
+    <color name="panel_fg_30">4Dfafafa</color>
+    <color name="panel_fg_12">1Ffafafa</color>
+    
+    <!-- Background -->
+    <color name="Background">FF070707</color>
+    <color name="FanartDim_Reduced">bb070707</color>
+    <color name="FanartDim_Increased">8b070707</color>
+    <color name="FanartDim_NoVignette_Reduced">db070707</color>
+    <color name="FanartDim_NoVignette_Increased">bb070707</color>
+
+    <!-- Backing Panels and Furniture -->
+    <color name="PixelLines">1fffffff</color>
+    <color name="PosterBack">3f444444</color>
+    <color name="PosterFront">ffededed</color>
+    <color name="PosterFront_70">bffafafa</color>
+    <color name="PosterFront_30">4dfafafa</color>
+
+    <!-- Highlight -->
+    <color name="Highlight">ffbb1212</color>
+    <color name="Highlight2">ffe5b535</color>
+    <color name="GradientHighlight">ffbb1212</color>
+    <color name="Overlay">ffbb1212</color>
+    <color name="Selected">ffededed</color>
+
+<!--Titan-->
+
+	<!-- All others -->
+	<color name="black">FF070707</color>	
+	<color name="red">FFbb1212</color>
+	<color name="blue">FF0000FF</color>
+	<color name="darkblue">ff011222</color>
+	<color name="green">FF00FF00</color>	
+	<color name="WidgetPosterDiffuse">aaFFFFFF</color>
+	<color name="PrimaryM">FFFFFFFF</color>
+    <color name="None">00FFFFFF</color>
+	
+	<color name="pink">ffffc0cb</color>
+	<color name="purple">ff3a0079</color>
+	<color name="lime">ff32cd32</color>
+	<color name="yellow">ffffff00</color>
+	<color name="cyan">ff00ffff</color>
+	<color name="magenta">ffff00ff</color>
+
+	<!--Confluence Compatibility-->
+	<color name="selected">ff6495ed </color>
+	<color name="grey2">FF999999</color>
+	<color name="grey3">FF505050</color>
+	<color name="invalid">FFFF0000</color>
+	
+	<!--Global-->
+	<!--Titan 00b8ff-->
+	<!--Avalon 6aa5cb-->
+	<color name="mainblue">FF00b8ff</color>			<!--Main Blue-->	
+	<color name="ccmainblue">cc00b8ff</color>		<!--Main Blue-->		
+	<color name="orange">FFff7800</color>			<!--Orange-->		
+	
+	<!--List 50, and all other List Views-->
+	<color name="list_label_1_fo">cc00b8ff</color>		<!--CC Main Blue-->
+	<color name="list_label_1_nf">$VAR[ThemeFontColorMidGrey]</color>		<!--Mid Grey-->
+	<color name="list_label_1_select">cc00b8ff</color>	<!--CC Main Blue-->
+	<color name="list_label_2_first">7700b8ff</color>	<!--77 Main Blue-->
+	<color name="list_label_2_second">FF858585</color>	<!--Light Grey-->	
+	<color name="list_label_info">FF686868</color>		<!--Mid Grey-->		
+	<color name="list_separator">BBFFFFFF</color>		<!--Diffuse-->	
+	<color name="list_flag">77FFFFFF</color>			<!--Diffuse-->
+	<color name="panel_color">ff011222</color>
+	<!--Video Info-->
+	<color name="video_info_flag">77FFFFFF</color>		<!--Diffuse-->
+	
+	<!--Grey-->
+	<color name="grey">FFfafafa</color>
+	<color name="lightgrey">1f111111</color>      
+	<color name="midgrey">4d111111</color>      
+	<color name="bluegrey">a9c3e1</color>
+	<color name="darkgrey">b3111111</color>
+	<color name="darkgrey2">FFd9a0af</color>
+
+	<!--White-->
+	<color name="white">FFfafafa</color>
+	<color name="77white">77fafafa</color>	
+	<color name="aawhite">AAfafafa</color>  
+	<color name="bbwhite">BBfafafa</color>  
+	<color name="ddwhite">DDfafafa</color>  
+	<color name="eewhite">EEfafafa</color>
+</colors>
